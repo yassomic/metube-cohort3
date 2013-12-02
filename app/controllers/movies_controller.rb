@@ -1,5 +1,5 @@
 class MoviesController < ApplicationController
-  
+
   def show_gladiator
     @movie = {
       title: 'Gladiator',
